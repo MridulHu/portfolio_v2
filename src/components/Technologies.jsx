@@ -9,16 +9,16 @@ import react from "../assets/react.png";
 import java from "../assets/java.png";
 import node from "../assets/nodejs.png";
 import html from "../assets/html.png";
-import ga from "../assets/Github_Actions.png";
-import Firebase from "../assets/Firebase.png";
+import ga from "../assets/github_actions.png";
+import firebase from "../assets/firebase.png";
 import tailwind from '../assets/tailwind.png'
-import as from '../assets/Android_Studio.png'
-import Linux from '../assets/Linux.png'
-import Docker from '../assets/Docker.png'
-import AWS from '../assets/AWS.png'
-import Tensorflow from '../assets/Tensorflow.png'
-import Bash from '../assets/Bash.png'
-import arch from '../assets/Arch_Linux.png'
+import as from '../assets/android_studio.png'
+import linux from '../assets/linux.png'
+import docker from '../assets/docker.png'
+import aws from '../assets/aws.png'
+import tensorflow from '../assets/tensorflow.png'
+import bash from '../assets/bash.png'
+import arch from '../assets/arch_linux.png'
 // import leetcode from '../assets/leetcode.png'
 
 const iconVariants = (duration) => ({
@@ -90,7 +90,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img className="w-20" src={Firebase} alt="Firebase" />
+          <img className="w-20" src={firebase} alt="Firebase" />
         </motion.div>
         <motion.div
           variants={iconVariants(4)}
@@ -117,7 +117,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img className="w-20" src={Linux} alt="Linux" />
+          <img className="w-20" src={linux} alt="Linux" />
           {/* <BiLogoPostgresql className="text-7xl text-sky-700" /> */}
         </motion.div>
         <motion.div
@@ -126,7 +126,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img className="w-20" src={Docker} alt="Docker" />
+          <img className="w-20" src={docker} alt="Docker" />
           {/* <BiLogoPostgresql className="text-7xl text-sky-700" /> */}
         </motion.div>
         <motion.div
@@ -135,7 +135,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img className="w-20" src={AWS} alt="AWS" />
+          <img className="w-20" src={aws} alt="AWS" />
           {/* <BiLogoPostgresql className="text-7xl text-sky-700" /> */}
         </motion.div>
         <motion.div
@@ -144,7 +144,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img className="w-20" src={Tensorflow} alt="TensorFlow" />
+          <img className="w-20" src={tensorflow} alt="TensorFlow" />
           {/* <BiLogoPostgresql className="text-7xl text-sky-700" /> */}
         </motion.div>
         <motion.div
@@ -153,7 +153,7 @@ const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <img className="w-20" src={Bash} alt="Bash" />
+          <img className="w-20" src={bash} alt="Bash" />
           {/* <BiLogoPostgresql className="text-7xl text-sky-700" /> */}
         </motion.div>
         <motion.div
