@@ -9,16 +9,16 @@ import react from "../assets/react.png";
 import java from "../assets/java.png";
 import node from "../assets/nodejs.png";
 import html from "../assets/html.png";
-import ga from "../assets/Github Actions.png";
+import ga from "../assets/Github_Actions.png";
 import Firebase from "../assets/Firebase.png";
 import tailwind from '../assets/tailwind.png'
-import as from '../assets/Android Studio.png'
+import as from '../assets/Android_Studio.png'
 import Linux from '../assets/Linux.png'
 import Docker from '../assets/Docker.png'
 import AWS from '../assets/AWS.png'
 import Tensorflow from '../assets/Tensorflow.png'
 import Bash from '../assets/Bash.png'
-import arch from '../assets/Arch Linux.png'
+import arch from '../assets/Arch_Linux.png'
 // import leetcode from '../assets/leetcode.png'
 
 const iconVariants = (duration) => ({
