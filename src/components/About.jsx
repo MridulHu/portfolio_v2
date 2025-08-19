@@ -25,6 +25,7 @@ const About = () => {
               className="rounded-2xl w-72 h-auto lg:w-96"
               src="/about.jpg"
               alt="About"
+              loading="lazy"
             />
           </div>
         </motion.div>
@@ -38,7 +39,7 @@ const About = () => {
         >
           <div className="flex flex-col justify-center lg:justify-start pt-8">
             {ABOUT_TEXT.map((para, i) => (
-              <p key={i} className="my-2 max-w-xl py-2 text-gray-300">
+              <p key={i} className="my-2 max-w-xl py-2 text-gray-300 mx-auto">
                 {para}
               </p>
             ))}

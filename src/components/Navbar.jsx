@@ -25,7 +25,7 @@ const Navbar = () => {
       </div>
       <div className="flex items-center justify-center gap-4 text-2xl">
         <a
-          href="https://drive.google.com/file/d/1AnQnQ0qTjhjPHuuL0aPwMeuFzdaAARAO/view?usp=sharing"
+          href="https://drive.google.com/file/d/12NWvocwGaV0PQGpxy5xh1cxisS4Lx3F3/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className="text-lg text-white text-center py-2.5 px-10 block rounded-full shadow-[0_4px_15px_0_rgba(45,54,65,0.75)] transition-all duration-500 border border-gradient-to-r hover:border-none from-[#29323c] via-[#485563] to-[#2b5876] hover:bg-[linear-gradient(to_right,#29323c,#485563,#2b5876,#4e4376)] hover:no-underline"

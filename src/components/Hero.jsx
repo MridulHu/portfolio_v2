@@ -90,6 +90,7 @@ const Hero = () => {
               transition={{ duration: 1, delay: 0.5 }}
               src="/mridul.png"
               alt="Mridul Das"
+              loading="lazy"
               className="-mt-20 w-[80%]"
             />
           </div>
