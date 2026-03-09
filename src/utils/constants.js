@@ -127,7 +127,8 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "H No.105 Ward-10 Old Market Bacheli ",
-  phoneNo: "(+91) - 7000552842 ",
   email: "mriduldas0812@gmail.com",
+  instagram: "https://www.instagram.com/mridul._das/",
+  linkedin: "https://www.linkedin.com/in/mridulhu/",
+  github: "https://github.com/MridulHu",
 };
