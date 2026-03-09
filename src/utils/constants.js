@@ -41,6 +41,20 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
+  title: "Quiz App",
+  image: "https://opengraph.githubassets.com/1/MridulHu/QuizPlatform_V2",
+  link: "https://github.com/MridulHu/QuizPlatform_V2",
+  description: "Full-stack quiz platform with authentication, timed quizzes, automatic scoring, and result analytics. Built with React and Supabase with a responsive UI and scalable question management system.",
+  technologies: ["React", "Supabase", "JavaScript", "Tailwind CSS"],
+},
+{
+  title: "LeafBid",
+  image: "/leafbid.png",
+  link: "https://leafbid.com",
+  description: "Online bidding marketplace where users can list products, place bids, and manage listings. Built with React and Supabase with responsive UI and real-time database interactions.",
+  technologies: ["React", "Supabase", "PostgreSQL", "Tailwind CSS"],
+},
+  {
     title: "YouTranscribe",
     image: "https://opengraph.githubassets.com/1/MridulHu/YouTranscribe",
     link: "https://github.com/MridulHu/YouTranscribe",
